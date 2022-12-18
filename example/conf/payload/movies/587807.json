@@ -1,0 +1,63 @@
+{
+  "budget": 50000000,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Animation"
+  ],
+  "homepage": "https://www.tomandjerrymovie.com",
+  "id": 587807,
+  "original_language": "English",
+  "overview": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+  "popularity": 1454.107,
+  "poster_path": "/6KErczPBROQty7QoIsaa6wJYXZi.jpg",
+  "release_date": "2021-02-11",
+  "revenue": 66890000,
+  "runtime": 101,
+  "tagline": "Best of enemies. Worst of friends.",
+  "title": "Tom & Jerry",
+  "vote_average": 7.3,
+  "vote_count": 1157,
+  "external_ids": {
+    "imdb_id": "tt1361336",
+    "facebook_id": "TomandJerry",
+    "instagram_id": "tomandjerry",
+    "twitter_id": "TomAndJerry"
+  },
+  "certification": "PG",
+  "directors": [
+    {
+      "id": 20400,
+      "name": "Tim Story"
+    }
+  ],
+  "writers": [
+    {
+      "id": 13594,
+      "name": "Joseph Barbera"
+    },
+    {
+      "id": 13620,
+      "name": "William Hanna"
+    },
+    {
+      "id": 1640647,
+      "name": "Kevin Costello"
+    }
+  ],
+  "cast": [
+    {
+      "id": 56734,
+      "name": "Chloë Grace Moretz"
+    },
+    {
+      "id": 454,
+      "name": "Michael Peña"
+    },
+    {
+      "id": 1226277,
+      "name": "Colin Jost"
+    }
+  ],
+  "trailer_yt": "kP9TfCWaQT4"
+}

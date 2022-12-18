@@ -1,0 +1,91 @@
+{
+  "budget": 70000000,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "homepage": "https://www.hbomax.com/zacksnydersjusticeleague",
+  "id": 791373,
+  "original_language": "English",
+  "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+  "popularity": 4066.664,
+  "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+  "release_date": "2021-03-18",
+  "runtime": 242,
+  "tagline": "",
+  "title": "Zack Snyder's Justice League",
+  "vote_average": 8.6,
+  "vote_count": 4740,
+  "external_ids": {
+    "imdb_id": "tt12361974",
+    "facebook_id": "thesnydercut",
+    "instagram_id": "snydercut",
+    "twitter_id": "snydercut"
+  },
+  "certification": "R",
+  "directors": [
+    {
+      "id": 15217,
+      "name": "Zack Snyder"
+    }
+  ],
+  "writers": [
+    {
+      "id": 3794,
+      "name": "Bob Kane"
+    },
+    {
+      "id": 15217,
+      "name": "Zack Snyder"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby"
+    },
+    {
+      "id": 20007,
+      "name": "Jerry Siegel"
+    },
+    {
+      "id": 20008,
+      "name": "Joe Shuster"
+    },
+    {
+      "id": 131680,
+      "name": "Chris Terrio"
+    },
+    {
+      "id": 198034,
+      "name": "Bill Finger"
+    },
+    {
+      "id": 466391,
+      "name": "Will Beall"
+    },
+    {
+      "id": 1236448,
+      "name": "William Moulton Marston"
+    },
+    {
+      "id": 1368162,
+      "name": "Gardner Fox"
+    }
+  ],
+  "cast": [
+    {
+      "id": 880,
+      "name": "Ben Affleck"
+    },
+    {
+      "id": 73968,
+      "name": "Henry Cavill"
+    },
+    {
+      "id": 90633,
+      "name": "Gal Gadot"
+    }
+  ],
+  "trailer_yt": "vM-Bja2Gy04"
+}

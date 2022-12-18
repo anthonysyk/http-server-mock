@@ -1,10 +1,7 @@
 # http-server-mock
 Tool to run a local server with mocked data from a config file
 
-## Route Definitions
-You can define routes in 2 different ways :
-
-### 1 - Configuration File
+### Configuration File
 
 Very handy to **quickly** set up a mock server and define everything in a single file.
 
@@ -21,18 +18,33 @@ paths:
     GET:
       responses:
         200:
-          filename: "payload/recommended-movies.json"
+          filepath: "payload/top-movies.json"
   /movies/{id}:
     GET:
       responses:
         200:
-          filename: "payload/movies/{id}.json"
-
+          filepath: "payload/movies/{id}.json"
+  /movies/{id}/actors/{id}:
+    GET:
+      responses:
+        200:
+          filepath: "payload/movies/{id}/actors/{id}.json"
+  /popular-actors:
+    GET:
+      responses:
+        200:
+          filepath: "payload/top-actors.json"
+  /genres:
+    GET:
+      responses:
+        200:
+          body: |
+            ["Action","Adventure","Animation","Comedy","Crime","Drama","Family","Fantasy","Music","Science Fiction","Thriller"]
 ```
 
-### 2 - File System Structure
-
-Very handy when you have a **lot of data to mock**, and you want to keep it humanly readable.
+You can either set data as : 
+- a filepath
+- an inline string
 
 ### Use Cases
 

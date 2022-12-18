@@ -1,0 +1,36 @@
+version: 1.0
+paths:
+  /health:
+    GET:
+      200:
+        body: |
+          {"status":"OK"}
+  /recommended-movies:
+    GET:
+      200:
+        filepath: "payload/top-movies.json"
+  /movies/{id}:
+    GET:
+      200:
+        filepath: "payload/movies/{id}.json"
+  /movies/{id}/actors/{id}:
+    GET:
+      200:
+        filepath: "payload/movies/{id}/actors/{id}.json"
+  /popular-actors:
+    GET:
+      200:
+        filepath: "payload/top-actors.json"
+  /genres:
+    GET:
+      200:
+        body: |
+          ["Action","Adventure","Animation","Comedy","Crime","Drama","Family","Fantasy","Music","Science Fiction","Thriller"]
+    POST:
+      200:
+        body: |
+          {"message":"new genre added"}
+    DELETE:
+      200:
+        body: |
+          {"message": "genre deleted" }

@@ -1,0 +1,50 @@
+{
+  "genres": [
+    "Animation",
+    "Action",
+    "Fantasy"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/mortal-kombat-legends-scorpions-revenge",
+  "id": 664767,
+  "original_language": "English",
+  "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+  "popularity": 878.696,
+  "poster_path": "/4VlXER3FImHeFuUjBShFamhIp9M.jpg",
+  "release_date": "2020-04-12",
+  "runtime": 80,
+  "tagline": "",
+  "title": "Mortal Kombat Legends: Scorpion's Revenge",
+  "vote_average": 8.4,
+  "vote_count": 828,
+  "external_ids": {
+    "imdb_id": "tt9580138"
+  },
+  "certification": "R",
+  "directors": [
+    {
+      "id": 204553,
+      "name": "Ethan Spaulding"
+    }
+  ],
+  "writers": [
+    {
+      "id": 1674791,
+      "name": "Jeremy Adams"
+    }
+  ],
+  "cast": [
+    {
+      "id": 939345,
+      "name": "Patrick Seitz"
+    },
+    {
+      "id": 1231115,
+      "name": "Jordan Rodrigues"
+    },
+    {
+      "id": 53828,
+      "name": "Jennifer Carpenter"
+    }
+  ],
+  "trailer_yt": "I1vccr3yWBU"
+}

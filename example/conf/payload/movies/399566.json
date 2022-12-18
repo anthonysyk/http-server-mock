@@ -1,0 +1,70 @@
+{
+  "budget": 200000000,
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "homepage": "https://www.godzillavskong.net",
+  "id": 399566,
+  "original_language": "English",
+  "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+  "popularity": 10755.513,
+  "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+  "release_date": "2021-03-24",
+  "revenue": 298573106,
+  "runtime": 113,
+  "tagline": "One Will Fall",
+  "title": "Godzilla vs. Kong",
+  "vote_average": 8.4,
+  "vote_count": 4108,
+  "external_ids": {
+    "imdb_id": "tt5034838",
+    "facebook_id": "GodzillaVsKong",
+    "instagram_id": "godzillavskong",
+    "twitter_id": "GodzillavsKong"
+  },
+  "certification": "PG-13",
+  "directors": [
+    {
+      "id": 98631,
+      "name": "Adam Wingard"
+    }
+  ],
+  "writers": [
+    {
+      "id": 1706,
+      "name": "Terry Rossio"
+    },
+    {
+      "id": 11012,
+      "name": "Michael Dougherty"
+    },
+    {
+      "id": 579281,
+      "name": "Eric Pearson"
+    },
+    {
+      "id": 1080778,
+      "name": "Max Borenstein"
+    },
+    {
+      "id": 1443683,
+      "name": "Zach Shields"
+    }
+  ],
+  "cast": [
+    {
+      "id": 28846,
+      "name": "Alexander Skarsgård"
+    },
+    {
+      "id": 1356210,
+      "name": "Millie Bobby Brown"
+    },
+    {
+      "id": 15556,
+      "name": "Rebecca Hall"
+    }
+  ],
+  "trailer_yt": "odM92ap8_c0"
+}

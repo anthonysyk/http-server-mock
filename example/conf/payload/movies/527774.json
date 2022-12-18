@@ -1,0 +1,92 @@
+{
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Family",
+    "Action"
+  ],
+  "homepage": "https://movies.disney.com/raya-and-the-last-dragon",
+  "id": 527774,
+  "original_language": "English",
+  "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+  "popularity": 2064.45,
+  "poster_path": "/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+  "release_date": "2021-03-03",
+  "revenue": 56482606,
+  "runtime": 107,
+  "tagline": "A quest to save her world.",
+  "title": "Raya and the Last Dragon",
+  "vote_average": 8.3,
+  "vote_count": 2176,
+  "external_ids": {
+    "imdb_id": "tt5109280",
+    "facebook_id": "rayaandthelastdragon",
+    "instagram_id": "disneyraya",
+    "twitter_id": "DisneyRaya"
+  },
+  "certification": "PG",
+  "directors": [
+    {
+      "id": 227439,
+      "name": "Don Hall"
+    },
+    {
+      "id": 1932178,
+      "name": "Carlos López Estrada"
+    }
+  ],
+  "writers": [
+    {
+      "id": 227439,
+      "name": "Don Hall"
+    },
+    {
+      "id": 1117779,
+      "name": "Kiel Murray"
+    },
+    {
+      "id": 1215038,
+      "name": "Adele Lim"
+    },
+    {
+      "id": 1340669,
+      "name": "Paul Briggs"
+    },
+    {
+      "id": 1459476,
+      "name": "Dean Wellins"
+    },
+    {
+      "id": 1822324,
+      "name": "Qui Nguyen"
+    },
+    {
+      "id": 1932178,
+      "name": "Carlos López Estrada"
+    },
+    {
+      "id": 1995178,
+      "name": "John Ripa"
+    },
+    {
+      "id": 2375591,
+      "name": "Fawn Veerasunthorn"
+    }
+  ],
+  "cast": [
+    {
+      "id": 1663195,
+      "name": "Kelly Marie Tran"
+    },
+    {
+      "id": 1625558,
+      "name": "Awkwafina"
+    },
+    {
+      "id": 2362044,
+      "name": "Izaac Wang"
+    }
+  ],
+  "trailer_yt": "9BPMTr-NS9s"
+}

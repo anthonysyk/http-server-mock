@@ -1,0 +1,698 @@
+[
+  {
+    "budget": 200000000,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "homepage": "https://www.godzillavskong.net",
+    "id": 399566,
+    "original_language": "English",
+    "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+    "popularity": 10755.513,
+    "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+    "release_date": "2021-03-24",
+    "revenue": 298573106,
+    "runtime": 113,
+    "tagline": "One Will Fall",
+    "title": "Godzilla vs. Kong",
+    "vote_average": 8.4,
+    "vote_count": 4108,
+    "external_ids": {
+      "imdb_id": "tt5034838",
+      "facebook_id": "GodzillaVsKong",
+      "instagram_id": "godzillavskong",
+      "twitter_id": "GodzillavsKong"
+    },
+    "certification": "PG-13",
+    "directors": [
+      {
+        "id": 98631,
+        "name": "Adam Wingard"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1706,
+        "name": "Terry Rossio"
+      },
+      {
+        "id": 11012,
+        "name": "Michael Dougherty"
+      },
+      {
+        "id": 579281,
+        "name": "Eric Pearson"
+      },
+      {
+        "id": 1080778,
+        "name": "Max Borenstein"
+      },
+      {
+        "id": 1443683,
+        "name": "Zach Shields"
+      }
+    ],
+    "cast": [
+      {
+        "id": 28846,
+        "name": "Alexander Skarsgård"
+      },
+      {
+        "id": 1356210,
+        "name": "Millie Bobby Brown"
+      },
+      {
+        "id": 15556,
+        "name": "Rebecca Hall"
+      }
+    ],
+    "trailer_yt": "odM92ap8_c0"
+  },
+  {
+    "budget": 70000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "homepage": "https://www.hbomax.com/zacksnydersjusticeleague",
+    "id": 791373,
+    "original_language": "English",
+    "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "popularity": 4066.664,
+    "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+    "release_date": "2021-03-18",
+    "runtime": 242,
+    "tagline": "",
+    "title": "Zack Snyder's Justice League",
+    "vote_average": 8.6,
+    "vote_count": 4740,
+    "external_ids": {
+      "imdb_id": "tt12361974",
+      "facebook_id": "thesnydercut",
+      "instagram_id": "snydercut",
+      "twitter_id": "snydercut"
+    },
+    "certification": "R",
+    "directors": [
+      {
+        "id": 15217,
+        "name": "Zack Snyder"
+      }
+    ],
+    "writers": [
+      {
+        "id": 3794,
+        "name": "Bob Kane"
+      },
+      {
+        "id": 15217,
+        "name": "Zack Snyder"
+      },
+      {
+        "id": 18866,
+        "name": "Jack Kirby"
+      },
+      {
+        "id": 20007,
+        "name": "Jerry Siegel"
+      },
+      {
+        "id": 20008,
+        "name": "Joe Shuster"
+      },
+      {
+        "id": 131680,
+        "name": "Chris Terrio"
+      },
+      {
+        "id": 198034,
+        "name": "Bill Finger"
+      },
+      {
+        "id": 466391,
+        "name": "Will Beall"
+      },
+      {
+        "id": 1236448,
+        "name": "William Moulton Marston"
+      },
+      {
+        "id": 1368162,
+        "name": "Gardner Fox"
+      }
+    ],
+    "cast": [
+      {
+        "id": 880,
+        "name": "Ben Affleck"
+      },
+      {
+        "id": 73968,
+        "name": "Henry Cavill"
+      },
+      {
+        "id": 90633,
+        "name": "Gal Gadot"
+      }
+    ],
+    "trailer_yt": "vM-Bja2Gy04"
+  },
+  {
+    "budget": 125000000,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "homepage": "https://chaoswalking.movie",
+    "id": 412656,
+    "original_language": "English",
+    "overview": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.",
+    "popularity": 2919.395,
+    "poster_path": "/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg",
+    "release_date": "2021-02-24",
+    "runtime": 109,
+    "tagline": "No one escapes the noise.",
+    "title": "Chaos Walking",
+    "vote_average": 7.5,
+    "vote_count": 287,
+    "external_ids": {
+      "imdb_id": "tt2076822",
+      "facebook_id": "ChaosWalkingMovie",
+      "instagram_id": "chaoswalking",
+      "twitter_id": "ChaosWalking"
+    },
+    "certification": "PG-13",
+    "directors": [
+      {
+        "id": 11694,
+        "name": "Doug Liman"
+      }
+    ],
+    "writers": [
+      {
+        "id": 101814,
+        "name": "Christopher D. Ford"
+      },
+      {
+        "id": 1299057,
+        "name": "Patrick Ness"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1315036,
+        "name": "Daisy Ridley"
+      },
+      {
+        "id": 1136406,
+        "name": "Tom Holland"
+      },
+      {
+        "id": 1019,
+        "name": "Mads Mikkelsen"
+      }
+    ],
+    "trailer_yt": "nRf4ZgzHoVw"
+  },
+  {
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Family",
+      "Action"
+    ],
+    "homepage": "https://movies.disney.com/raya-and-the-last-dragon",
+    "id": 527774,
+    "original_language": "English",
+    "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+    "popularity": 2064.45,
+    "poster_path": "/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+    "release_date": "2021-03-03",
+    "revenue": 56482606,
+    "runtime": 107,
+    "tagline": "A quest to save her world.",
+    "title": "Raya and the Last Dragon",
+    "vote_average": 8.3,
+    "vote_count": 2176,
+    "external_ids": {
+      "imdb_id": "tt5109280",
+      "facebook_id": "rayaandthelastdragon",
+      "instagram_id": "disneyraya",
+      "twitter_id": "DisneyRaya"
+    },
+    "certification": "PG",
+    "directors": [
+      {
+        "id": 227439,
+        "name": "Don Hall"
+      },
+      {
+        "id": 1932178,
+        "name": "Carlos López Estrada"
+      }
+    ],
+    "writers": [
+      {
+        "id": 227439,
+        "name": "Don Hall"
+      },
+      {
+        "id": 1117779,
+        "name": "Kiel Murray"
+      },
+      {
+        "id": 1215038,
+        "name": "Adele Lim"
+      },
+      {
+        "id": 1340669,
+        "name": "Paul Briggs"
+      },
+      {
+        "id": 1459476,
+        "name": "Dean Wellins"
+      },
+      {
+        "id": 1822324,
+        "name": "Qui Nguyen"
+      },
+      {
+        "id": 1932178,
+        "name": "Carlos López Estrada"
+      },
+      {
+        "id": 1995178,
+        "name": "John Ripa"
+      },
+      {
+        "id": 2375591,
+        "name": "Fawn Veerasunthorn"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1663195,
+        "name": "Kelly Marie Tran"
+      },
+      {
+        "id": 1625558,
+        "name": "Awkwafina"
+      },
+      {
+        "id": 2362044,
+        "name": "Izaac Wang"
+      }
+    ],
+    "trailer_yt": "9BPMTr-NS9s"
+  },
+  {
+    "budget": 50000000,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation"
+    ],
+    "homepage": "https://www.tomandjerrymovie.com",
+    "id": 587807,
+    "original_language": "English",
+    "overview": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+    "popularity": 1454.107,
+    "poster_path": "/6KErczPBROQty7QoIsaa6wJYXZi.jpg",
+    "release_date": "2021-02-11",
+    "revenue": 66890000,
+    "runtime": 101,
+    "tagline": "Best of enemies. Worst of friends.",
+    "title": "Tom & Jerry",
+    "vote_average": 7.3,
+    "vote_count": 1157,
+    "external_ids": {
+      "imdb_id": "tt1361336",
+      "facebook_id": "TomandJerry",
+      "instagram_id": "tomandjerry",
+      "twitter_id": "TomAndJerry"
+    },
+    "certification": "PG",
+    "directors": [
+      {
+        "id": 20400,
+        "name": "Tim Story"
+      }
+    ],
+    "writers": [
+      {
+        "id": 13594,
+        "name": "Joseph Barbera"
+      },
+      {
+        "id": 13620,
+        "name": "William Hanna"
+      },
+      {
+        "id": 1640647,
+        "name": "Kevin Costello"
+      }
+    ],
+    "cast": [
+      {
+        "id": 56734,
+        "name": "Chloë Grace Moretz"
+      },
+      {
+        "id": 454,
+        "name": "Michael Peña"
+      },
+      {
+        "id": 1226277,
+        "name": "Colin Jost"
+      }
+    ],
+    "trailer_yt": "kP9TfCWaQT4"
+  },
+  {
+    "budget": 40000000,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "homepage": "https://tv.apple.com/movie/umc.cmc.40gvwq6hnbilmnxuutvmejx4r",
+    "id": 544401,
+    "original_language": "English",
+    "overview": "Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.",
+    "popularity": 1427.104,
+    "poster_path": "/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+    "release_date": "2021-02-26",
+    "runtime": 140,
+    "tagline": "Life leaves a mark.",
+    "title": "Cherry",
+    "vote_average": 7.6,
+    "vote_count": 484,
+    "external_ids": {
+      "imdb_id": "tt9130508"
+    },
+    "certification": "R",
+    "directors": [
+      {
+        "id": 19271,
+        "name": "Anthony Russo"
+      },
+      {
+        "id": 19272,
+        "name": "Joe Russo"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1110909,
+        "name": "Jessica Goldberg"
+      },
+      {
+        "id": 1751775,
+        "name": "Angela Russo-Otstot"
+      },
+      {
+        "id": 2114506,
+        "name": "Nico Walker"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1136406,
+        "name": "Tom Holland"
+      },
+      {
+        "id": 144216,
+        "name": "Ciara Bravo"
+      },
+      {
+        "id": 1007683,
+        "name": "Jack Reynor"
+      }
+    ],
+    "trailer_yt": "H5bH6O0bErk"
+  },
+  {
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "homepage": "https://www.warnerbros.com/movies/mortal-kombat-legends-scorpions-revenge",
+    "id": 664767,
+    "original_language": "English",
+    "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+    "popularity": 878.696,
+    "poster_path": "/4VlXER3FImHeFuUjBShFamhIp9M.jpg",
+    "release_date": "2020-04-12",
+    "runtime": 80,
+    "tagline": "",
+    "title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "vote_average": 8.4,
+    "vote_count": 828,
+    "external_ids": {
+      "imdb_id": "tt9580138"
+    },
+    "certification": "R",
+    "directors": [
+      {
+        "id": 204553,
+        "name": "Ethan Spaulding"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1674791,
+        "name": "Jeremy Adams"
+      }
+    ],
+    "cast": [
+      {
+        "id": 939345,
+        "name": "Patrick Seitz"
+      },
+      {
+        "id": 1231115,
+        "name": "Jordan Rodrigues"
+      },
+      {
+        "id": 53828,
+        "name": "Jennifer Carpenter"
+      }
+    ],
+    "trailer_yt": "I1vccr3yWBU"
+  },
+  {
+    "budget": 65000000,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Animation",
+      "Comedy"
+    ],
+    "homepage": "https://www.dreamworks.com/movies/the-croods-2",
+    "id": 529203,
+    "original_language": "English",
+    "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+    "popularity": 907.472,
+    "poster_path": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+    "release_date": "2020-11-25",
+    "revenue": 135076090,
+    "runtime": 95,
+    "tagline": "The future ain't what it used to be.",
+    "title": "The Croods: A New Age",
+    "vote_average": 7.5,
+    "vote_count": 1930,
+    "external_ids": {
+      "imdb_id": "tt2850386",
+      "facebook_id": "TheCroods",
+      "instagram_id": "TheCroods",
+      "twitter_id": "TheCroods"
+    },
+    "certification": "PG",
+    "directors": [
+      {
+        "id": 1450348,
+        "name": "Joel Crawford"
+      }
+    ],
+    "writers": [
+      {
+        "id": 8930,
+        "name": "John Cleese"
+      },
+      {
+        "id": 66193,
+        "name": "Chris Sanders"
+      },
+      {
+        "id": 71267,
+        "name": "Kirk DeMicco"
+      },
+      {
+        "id": 934181,
+        "name": "Paul Fisher"
+      },
+      {
+        "id": 1003944,
+        "name": "Dan Hageman"
+      },
+      {
+        "id": 1003945,
+        "name": "Kevin Hageman"
+      },
+      {
+        "id": 1767030,
+        "name": "Bob Logan"
+      }
+    ],
+    "cast": [
+      {
+        "id": 2963,
+        "name": "Nicolas Cage"
+      },
+      {
+        "id": 54693,
+        "name": "Emma Stone"
+      },
+      {
+        "id": 10859,
+        "name": "Ryan Reynolds"
+      }
+    ],
+    "trailer_yt": "GkXeVIfbJOw"
+  },
+  {
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "id": 755812,
+    "original_language": "French",
+    "overview": "During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too.",
+    "popularity": 886.238,
+    "poster_path": "/kIHgjAkuzvKBnmdstpBOo4AfZah.jpg",
+    "release_date": "2020-09-26",
+    "runtime": 55,
+    "tagline": "NEW CITY. SAME DUTY.",
+    "title": "Miraculous World: New York, United HeroeZ",
+    "vote_average": 8.3,
+    "vote_count": 611,
+    "external_ids": {
+      "imdb_id": "tt12816348"
+    },
+    "certification": "NR",
+    "directors": [
+      {
+        "id": 1565301,
+        "name": "Thomas Astruc"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1163095,
+        "name": "Sébastien Thibaudeau"
+      },
+      {
+        "id": 1565301,
+        "name": "Thomas Astruc"
+      },
+      {
+        "id": 2848194,
+        "name": "Matthieu Choquet"
+      },
+      {
+        "id": 2848195,
+        "name": "Fred Lenoir"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1762588,
+        "name": "Anouck Hautbois"
+      },
+      {
+        "id": 2952757,
+        "name": "Benjamin Boullen"
+      }
+    ]
+  },
+  {
+    "budget": 150000000,
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Music",
+      "Fantasy"
+    ],
+    "homepage": "https://movies.disney.com/soul",
+    "id": 508442,
+    "original_language": "English",
+    "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+    "popularity": 631.205,
+    "poster_path": "/2NNebYVf8XAbJzVZTM3razRaZKA.jpg",
+    "release_date": "2020-12-25",
+    "revenue": 57400000,
+    "runtime": 101,
+    "tagline": "Is all this living really worth dying for?",
+    "title": "Soul",
+    "vote_average": 8.3,
+    "vote_count": 5638,
+    "external_ids": {
+      "imdb_id": "tt2948372",
+      "facebook_id": "pixarsoul",
+      "instagram_id": "pixarsoul",
+      "twitter_id": "PixarSoul"
+    },
+    "certification": "PG",
+    "directors": [
+      {
+        "id": 12890,
+        "name": "Pete Docter"
+      },
+      {
+        "id": 2451598,
+        "name": "Kemp Powers"
+      }
+    ],
+    "writers": [
+      {
+        "id": 12890,
+        "name": "Pete Docter"
+      },
+      {
+        "id": 1348911,
+        "name": "Michael Yates"
+      },
+      {
+        "id": 2451598,
+        "name": "Kemp Powers"
+      },
+      {
+        "id": 2808625,
+        "name": "Mike Jones"
+      }
+    ],
+    "cast": [
+      {
+        "id": 134,
+        "name": "Jamie Foxx"
+      },
+      {
+        "id": 56323,
+        "name": "Tina Fey"
+      },
+      {
+        "id": 4719,
+        "name": "Ahmir-Khalib Thompson"
+      }
+    ],
+    "trailer_yt": "xOsLIiBStEs"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "budget": 65000000,
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Animation",
+    "Comedy"
+  ],
+  "homepage": "https://www.dreamworks.com/movies/the-croods-2",
+  "id": 529203,
+  "original_language": "English",
+  "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+  "popularity": 907.472,
+  "poster_path": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+  "release_date": "2020-11-25",
+  "revenue": 135076090,
+  "runtime": 95,
+  "tagline": "The future ain't what it used to be.",
+  "title": "The Croods: A New Age",
+  "vote_average": 7.5,
+  "vote_count": 1930,
+  "external_ids": {
+    "imdb_id": "tt2850386",
+    "facebook_id": "TheCroods",
+    "instagram_id": "TheCroods",
+    "twitter_id": "TheCroods"
+  },
+  "certification": "PG",
+  "directors": [
+    {
+      "id": 1450348,
+      "name": "Joel Crawford"
+    }
+  ],
+  "writers": [
+    {
+      "id": 8930,
+      "name": "John Cleese"
+    },
+    {
+      "id": 66193,
+      "name": "Chris Sanders"
+    },
+    {
+      "id": 71267,
+      "name": "Kirk DeMicco"
+    },
+    {
+      "id": 934181,
+      "name": "Paul Fisher"
+    },
+    {
+      "id": 1003944,
+      "name": "Dan Hageman"
+    },
+    {
+      "id": 1003945,
+      "name": "Kevin Hageman"
+    },
+    {
+      "id": 1767030,
+      "name": "Bob Logan"
+    }
+  ],
+  "cast": [
+    {
+      "id": 2963,
+      "name": "Nicolas Cage"
+    },
+    {
+      "id": 54693,
+      "name": "Emma Stone"
+    },
+    {
+      "id": 10859,
+      "name": "Ryan Reynolds"
+    }
+  ],
+  "trailer_yt": "GkXeVIfbJOw"
+}

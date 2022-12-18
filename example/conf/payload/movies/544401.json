@@ -1,0 +1,62 @@
+{
+  "budget": 40000000,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "homepage": "https://tv.apple.com/movie/umc.cmc.40gvwq6hnbilmnxuutvmejx4r",
+  "id": 544401,
+  "original_language": "English",
+  "overview": "Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.",
+  "popularity": 1427.104,
+  "poster_path": "/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+  "release_date": "2021-02-26",
+  "runtime": 140,
+  "tagline": "Life leaves a mark.",
+  "title": "Cherry",
+  "vote_average": 7.6,
+  "vote_count": 484,
+  "external_ids": {
+    "imdb_id": "tt9130508"
+  },
+  "certification": "R",
+  "directors": [
+    {
+      "id": 19271,
+      "name": "Anthony Russo"
+    },
+    {
+      "id": 19272,
+      "name": "Joe Russo"
+    }
+  ],
+  "writers": [
+    {
+      "id": 1110909,
+      "name": "Jessica Goldberg"
+    },
+    {
+      "id": 1751775,
+      "name": "Angela Russo-Otstot"
+    },
+    {
+      "id": 2114506,
+      "name": "Nico Walker"
+    }
+  ],
+  "cast": [
+    {
+      "id": 1136406,
+      "name": "Tom Holland"
+    },
+    {
+      "id": 144216,
+      "name": "Ciara Bravo"
+    },
+    {
+      "id": 1007683,
+      "name": "Jack Reynor"
+    }
+  ],
+  "trailer_yt": "H5bH6O0bErk"
+}

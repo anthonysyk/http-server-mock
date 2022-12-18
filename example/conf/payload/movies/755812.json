@@ -1,0 +1,55 @@
+{
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "id": 755812,
+  "original_language": "French",
+  "overview": "During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too.",
+  "popularity": 886.238,
+  "poster_path": "/kIHgjAkuzvKBnmdstpBOo4AfZah.jpg",
+  "release_date": "2020-09-26",
+  "runtime": 55,
+  "tagline": "NEW CITY. SAME DUTY.",
+  "title": "Miraculous World: New York, United HeroeZ",
+  "vote_average": 8.3,
+  "vote_count": 611,
+  "external_ids": {
+    "imdb_id": "tt12816348"
+  },
+  "certification": "NR",
+  "directors": [
+    {
+      "id": 1565301,
+      "name": "Thomas Astruc"
+    }
+  ],
+  "writers": [
+    {
+      "id": 1163095,
+      "name": "Sébastien Thibaudeau"
+    },
+    {
+      "id": 1565301,
+      "name": "Thomas Astruc"
+    },
+    {
+      "id": 2848194,
+      "name": "Matthieu Choquet"
+    },
+    {
+      "id": 2848195,
+      "name": "Fred Lenoir"
+    }
+  ],
+  "cast": [
+    {
+      "id": 1762588,
+      "name": "Anouck Hautbois"
+    },
+    {
+      "id": 2952757,
+      "name": "Benjamin Boullen"
+    }
+  ]
+}

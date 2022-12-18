@@ -1,0 +1,59 @@
+{
+  "budget": 125000000,
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "homepage": "https://chaoswalking.movie",
+  "id": 412656,
+  "original_language": "English",
+  "overview": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.",
+  "popularity": 2919.395,
+  "poster_path": "/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg",
+  "release_date": "2021-02-24",
+  "runtime": 109,
+  "tagline": "No one escapes the noise.",
+  "title": "Chaos Walking",
+  "vote_average": 7.5,
+  "vote_count": 287,
+  "external_ids": {
+    "imdb_id": "tt2076822",
+    "facebook_id": "ChaosWalkingMovie",
+    "instagram_id": "chaoswalking",
+    "twitter_id": "ChaosWalking"
+  },
+  "certification": "PG-13",
+  "directors": [
+    {
+      "id": 11694,
+      "name": "Doug Liman"
+    }
+  ],
+  "writers": [
+    {
+      "id": 101814,
+      "name": "Christopher D. Ford"
+    },
+    {
+      "id": 1299057,
+      "name": "Patrick Ness"
+    }
+  ],
+  "cast": [
+    {
+      "id": 1315036,
+      "name": "Daisy Ridley"
+    },
+    {
+      "id": 1136406,
+      "name": "Tom Holland"
+    },
+    {
+      "id": 1019,
+      "name": "Mads Mikkelsen"
+    }
+  ],
+  "trailer_yt": "nRf4ZgzHoVw"
+}
