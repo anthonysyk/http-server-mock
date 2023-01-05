@@ -3,9 +3,9 @@ paths:
   /health:
     GET:
       200:
-        body: |
+        body: |-
           {"status":"OK"}
-  /recommended-movies:
+  /top-movies:
     GET:
       200:
         filepath: "payload/top-movies.json"
@@ -13,24 +13,38 @@ paths:
     GET:
       200:
         filepath: "payload/movies/{id}.json"
-  /movies/{id}/actors/{id}:
+  /movies/{moviesId}/actors/{actorsId}:
     GET:
       200:
-        filepath: "payload/movies/{id}/actors/{id}.json"
-  /popular-actors:
+        filepath: "payload/movies/{moviesId}/actors/{actorsId}.json"
+  /movies/suggest:
+    GET:
+      200:
+        body: |-
+          {
+            "title": "The Godfather",
+            "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "duration": 175,
+            "actors": [
+              "Marlon Brando",
+              "Al Pacino",
+              "James Caan"
+            ]
+          }
+  /top-actors:
     GET:
       200:
         filepath: "payload/top-actors.json"
   /genres:
     GET:
       200:
-        body: |
+        body: |-
           ["Action","Adventure","Animation","Comedy","Crime","Drama","Family","Fantasy","Music","Science Fiction","Thriller"]
     POST:
       200:
-        body: |
+        body: |-
           {"message":"new genre added"}
     DELETE:
       200:
-        body: |
-          {"message": "genre deleted" }
+        body: |-
+          {"message":"genre deleted"}

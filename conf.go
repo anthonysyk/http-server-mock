@@ -3,7 +3,6 @@ package http_server_mock
 import (
 	"errors"
 	"gopkg.in/yaml.v3"
-	"os"
 )
 
 func GetRoutes(config string) (Routes, error) {
@@ -19,12 +18,12 @@ func GetRoutes(config string) (Routes, error) {
 		for _, mt := range methodTails {
 			statusTails := getStatus(mt.Tail)
 			for _, st := range statusTails {
-				filepath, body, bodyErr := getBody(st.Tail)
+				filepath, body, bodyErr := getFilepathOrInlineBody(st.Tail)
 				routes = append(routes, Route{
 					URL:        ut.URL,
 					Method:     mt.Method,
 					StatusCode: st.Status,
-					Body:       body,
+					InlineBody: body,
 					Filepath:   filepath,
 					Errors:     []error{bodyErr},
 				})
@@ -85,20 +84,16 @@ func getStatus(m map[interface{}]interface{}) []StatusTail {
 	return statusTails
 }
 
-func getBody(m map[string]interface{}) (string, []byte, error) {
+func getFilepathOrInlineBody(m map[string]interface{}) (string, []byte, error) {
 	if len(m) > 1 {
 		return "", nil, errors.New("cannot set both body and filepath for a specific status code")
 	}
-	if body, ok := m["body"]; ok && body != "" {
+	if body, ok := m["body"]; ok && body != "" && body != nil {
 		return "", []byte(body.(string)), nil
 	}
-	if filepath, ok := m["filepath"]; ok && filepath != "" {
+	if filepath, ok := m["filepath"]; ok && filepath != "" && filepath != nil {
 		fp := filepath.(string)
-		content, err := os.ReadFile(fp)
-		if err != nil {
-			return fp, nil, err
-		}
-		return fp, content, nil
+		return fp, nil, nil
 	}
 
 	return "", nil, errors.New("no body found")
