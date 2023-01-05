@@ -10,41 +10,72 @@ version: 1.0
 paths:
   /health:
     GET:
-      responses:
-        200:
-          body: |
-            {"status":"OK"}
-  /recommended-movies:
+      200:
+        body: |-
+          {"status":"OK"}
+  /top-movies:
     GET:
-      responses:
-        200:
-          filepath: "payload/top-movies.json"
+      200:
+        filepath: "payload/top-movies.json"
   /movies/{id}:
     GET:
-      responses:
-        200:
-          filepath: "payload/movies/{id}.json"
-  /movies/{id}/actors/{id}:
+      200:
+        filepath: "payload/movies/{id}.json"
+  /movies/{moviesId}/actors/{actorsId}:
     GET:
-      responses:
-        200:
-          filepath: "payload/movies/{id}/actors/{id}.json"
-  /popular-actors:
+      200:
+        filepath: "payload/movies/{moviesId}/actors/{actorsId}.json"
+  /movies/suggest:
     GET:
-      responses:
-        200:
-          filepath: "payload/top-actors.json"
+      200:
+        body: |-
+          {
+            "title": "The Godfather",
+            "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "duration": 175,
+            "actors": [
+              "Marlon Brando",
+              "Al Pacino",
+              "James Caan"
+            ]
+          }
+  /top-actors:
+    GET:
+      200:
+        filepath: "payload/top-actors.json"
   /genres:
     GET:
-      responses:
-        200:
-          body: |
-            ["Action","Adventure","Animation","Comedy","Crime","Drama","Family","Fantasy","Music","Science Fiction","Thriller"]
+      200:
+        body: |-
+          ["Action","Adventure","Animation","Comedy","Crime","Drama","Family","Fantasy","Music","Science Fiction","Thriller"]
+    POST:
+      200:
+        body: |-
+          {"message":"new genre added"}
+    DELETE:
+      200:
+        body: |-
+          {"message":"genre deleted"}
 ```
 
 You can either set data as : 
 - a filepath
 - an inline string
+
+### Usage
+
+```go
+//go:embed routes.yml
+var RoutesYAML string
+
+func main() {
+    router, err := http_server_mock.GenerateRouter(RoutesYAML)
+    if err != nil {
+    // handle error
+    }
+    http.ListenAndServe(":8080", router)	
+}
+```
 
 ### Use Cases
 
@@ -52,3 +83,11 @@ You can either set data as :
 - To mock an API you don't have access to
 - To mock response payloads and match a specific environment
 - To implement integration tests
+
+### Troubleshoot
+
+Warnings can be raised if :
+- Path parameters definitions must be unique per URL
+  - Good : `/movies/{moviesId}/actors/{actorsId}`
+  - Bad : `/movies/{id}/actors/{id}`
+- Routes must be defined only once (no duplicate)
