@@ -77,6 +77,8 @@ func main() {
 }
 ```
 
+Real usage here : https://github.com/anthonysyk/http-backtest/blob/main/example/httpbacktest_test.go
+
 ### Use Cases
 
 - To run a mock http server for developing, testing or debugging with mocked data
